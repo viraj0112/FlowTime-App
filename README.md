@@ -7,4 +7,4 @@ javac WindowFrame.java
 ```
 ```shell
 java WindowFrame
-![window pic](https://user-images.githubusercontent.com/83603367/146665105-ef0cc44f-b299-47b3-bbaf-c380a500289d.png)
+
